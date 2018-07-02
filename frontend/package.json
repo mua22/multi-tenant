@@ -9,7 +9,15 @@
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.11",
-    "vue": "^2.5.16"
+    "buefy": "^0.6.6",
+    "es6-promise": "^4.2.4",
+    "jQuery": "^1.7.4",
+    "jsdom": "^11.11.0",
+    "location": "0.0.1",
+    "navigator": "^1.0.1",
+    "vue": "^2.5.16",
+    "vuex": "^3.0.1",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",
